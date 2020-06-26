@@ -4,7 +4,7 @@
 
 
 2.Group member: 
-|student name|student ID|
+|Student name|Student ID|
 |:-:|:-:|
 |Linran Yang|519370910021|
 |Siyu Li|519370910144|
@@ -45,7 +45,7 @@ Potential: Calculate the efficiency of each road after we take sizes into accoun
 
 
 9.Timetable: (time in the table is the latest time to complete the corresponding step)
-|time step|project progress|
+|Time step|Project progress|
 |:-:|:-:|
 |7.4|set our map and create some cities(or revise our project if it failed)|
 |7.11|create lakes,waterways,land routes,work on our progress report|
@@ -57,6 +57,10 @@ Potential: Calculate the efficiency of each road after we take sizes into accoun
 10.Extra preparations: We plan to learn to analysis some practical cases of road designing in real life as well as in the virtual game so as to obtain general patterns of road arrangement. For various layouts of cities, we will further learn to find their approximation to more general examples and then deal with them with reference to general methods.
 
 
-11.Task assignment: Who will accomplish which part, we expect every group member has the equal workload.
+11.Task assignment:
+Siyu Lyu: idea, proposal, coding, report
+Linran Yang: proposal, coding, report
+Yiming Wang: integrating proposal, coding, report
+
 
 
