@@ -6,7 +6,7 @@
 |:-:|:-:|
 |Linran Yang|5193|
 |Siyu Li|5193|
-|Yiming Wang|519370910080|
+|Yiming Wang|519370910080|  
 3.Project Name: Constructing passageways between cities  
 4.Intended language: MATLAB  
 5. Summary of your project: The project works out a scheme for constructing passageways between given cities according to their sizes and terrain and represent it in a plot.The   constructed system of passageways is expected to be relatively efficient.  
