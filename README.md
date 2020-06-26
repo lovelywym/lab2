@@ -58,9 +58,13 @@ Potential: Calculate the efficiency of each road after we take sizes into accoun
 
 
 11.Task assignment:
+
+
 Siyu Lyu: idea, proposal, coding, report
+
+
 Linran Yang: proposal, coding, report
+
+
 Yiming Wang: integrating proposal, coding, report
-
-
 
