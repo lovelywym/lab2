@@ -29,7 +29,7 @@
 7.1 Features of your software and its corresponding description
 
 
-7.2 Data dictionary or datagram demonstrating the structure or the interaction of different building blocks.
+In our project, the first step will prompt the user to enter a number n to create an empty map of n by n, which should not be too small considering the size and number of cities, otherwise the map will be too simple. Then we will generate m random cities of different sizes, and part of the blue area will be generated to represent the lake. Depending on the size of the city and whether there is a lake existing, water or land road will be built to the surrounding cities.
 
 
 8.Expected outcome
@@ -44,13 +44,10 @@ b.This program needs to take the terrain between different cities into considera
 c.After taking in two specified cities from the command line, this program needs to take various routes into consideration and come up with the least time that it takes to travel.
 
 
-Expected: List of features that you think you can accomplish before the deadline
+Expected: Take the size of the city into consideration, come up with the better choice.
 
 
-8.3Potential: List of features that you hope to accomplish before the deadline
-
-
-It is totally OK to accomplish less than you expected in the real-world software development process. So plan big, but plan wisely
+Potential: Try to calculate the most efficient approach to travel through all the cities distributed on the map and compute the shortest time it takes.
 
 
 9.Timetable: What do you wish to achieve at each time step before the deadline (A table, a itemized list, or a grant chart is needed for clear demonstration )
