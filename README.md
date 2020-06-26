@@ -27,15 +27,26 @@
 
 
 7.1 Features of your software and its corresponding description
+
+
 7.2 Data dictionary or datagram demonstrating the structure or the interaction of different building blocks.
+
+
 8.Expected outcome
 
 
 8.1Bottom-line: List of features that you will accomplish before the deadline no matter what
+
+
 8.2Expected: List of features that you think you can accomplish before the deadline
+
+
 8.3Potential: List of features that you hope to accomplish before the deadline
-It is totally OK to accomplish less than you expected in the real-world software
-development process. So plan big, but plan wisely
+
+
+It is totally OK to accomplish less than you expected in the real-world software development process. So plan big, but plan wisely
+
+
 9.Timetable: What do you wish to achieve at each time step before the deadline (A table, a itemized list, or a grant chart is needed for clear demonstration )
 
 
