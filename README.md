@@ -1,6 +1,8 @@
 ## VG 101 Project
 ## Proposal
 1.Group number: 3
+
+
 2.Group member: 
 |student name|student ID|
 |:-:|:-:|
@@ -9,9 +11,15 @@
 |Yiming Wang|519370910080|
 
 
-3.Project Name: Constructing passageways between cities  
-4.Intended language: MATLAB  
-5. Summary of your project: The project works out a scheme for constructing passageways between given cities according to their sizes and terrain and represent it in a plot.The   constructed system of passageways is expected to be relatively efficient.  
+3.Project Name: Constructing passageways between cities
+
+
+4.Intended language: MATLAB
+
+
+5. Summary of your project: The project works out a scheme for constructing passageways between given cities according to their sizes and terrain and represent it in a plot.The   constructed system of passageways is expected to be relatively efficient.
+
+
 6. Motivation：We have played a game before called mini metro that designs metro ways between cities and keep putting trains on it to transport objects from city to city.The whole system is supposed to run well with no objects piling up at any one of the cities if the metro ways are designed in a wise way. We thus decide to work out a simplified version of the game that only includes the road-designing part.  
 7. Tentative Design of your project (several paragraphs and some figures if you would like)  
 7.1 Features of your software and its corresponding description  
